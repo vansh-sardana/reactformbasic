@@ -197,7 +197,7 @@ function App() {
         </div>
 
         <div>
-          <input type="submit" value="Save" />
+          <input type="submit" value="Save" className='w-fit px-10 py-1 bg-blue-400 text-white font-bold'/>
         </div>
       </form>
     </div>

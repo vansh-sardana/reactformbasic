@@ -21,3 +21,7 @@ input, select{
   padding: 7px;
   margin: 4px;
 }
+
+input[type="checkbox"]{
+  margin-top: 6px;
+}
